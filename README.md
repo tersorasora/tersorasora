@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on 🎮 development
 - 📫 How to reach me 📫
 - 😄 Pronouns: me/you
-- ⚡ Fun fact: my jokes are unfunny
+- ⚡ Fun fact: my jokes aren't funny
 
 <!---
 tersorasora/tersorasora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
